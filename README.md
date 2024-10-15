@@ -31,5 +31,10 @@ terraform apply --auto-approve
 Based on the 2 blog post the plan is to create a similar project
 with Aiven CLI only.
 
+
+https://aiven.io/developer/db-technology-migration-with-apache-kafka-and-kafka-connect
+https://aiven.io/developer/change-data-capture-mysql-apache-kafka-debezium
+
+
 In the folder avncli there are copys from the listings from the blog
 post but not ready, tested or something else....will follow up on this.
